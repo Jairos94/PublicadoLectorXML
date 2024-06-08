@@ -1,4 +1,4 @@
-#Cómo instalar el lector de código
+# Cómo instalar el lector de código
 
 > [!TIP]
 > Tener habilitado el IIS.
